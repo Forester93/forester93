@@ -40,7 +40,7 @@ I am quite proficient in using the following technologies:
 ⚡ JQuery  
 ⚡ Bootstrap  
 ⚡ NodeJS  
-⚡ MySQL
+⚡ MySQL  
 ⚡ NoSQL
 
 ## Links
