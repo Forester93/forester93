@@ -2,7 +2,7 @@
 
 ### Who is Mark Forester?
 
-**Multi-skilled full-stack web developer and contracts manager leveraging a background in mechanical engineering to provide unique perspectives on how end-users interact with websites and software platforms. Earned a certificate in Full Stack Web Development from the University of Sydney Coding Boot Camp preceded by a full scholarship at Petronas University of Technology. Innovative problem-solver, passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution. Exceptional leadership characteristics in day-to-day work and when managing teams.**
+**Multi-skilled full-stack web developer and contracts manager leveraging a background in mechanical engineering to provide unique perspectives on how end-users interact with websites and software platforms. Earned a certificate in Full Stack Web Development from the University of Sydney Coding Boot Camp preceded by a full scholarship at Petronas University of Technology. Innovative problem-solver, passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution. Exceptional leadership characteristics in day-to-day work and when managing teams. Mark's technical forte lies in: JQuery, Bootstrap, NodeJS, MySQL, NoSQL, React**
 
 <!--
 **Forester93/forester93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
