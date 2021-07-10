@@ -41,7 +41,9 @@ I am quite proficient in using the following technologies:
 ⚡ Bootstrap  
 ⚡ NodeJS  
 ⚡ MySQL  
-⚡ NoSQL
+⚡ NoSQL  
+⚡ PWA  
+⚡ React
 
 ## Links
 
